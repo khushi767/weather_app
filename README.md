@@ -1,10 +1,10 @@
 # weather_app
 
 How to use the project
-Clone
-Install dependencies (npm i)
-Get your API key and add to weatherService.js
-Enjoy!!
+#Clone
+#Install dependencies (npm i)
+#Get your API key and add to weatherService.js
+#Enjoy!!
 
  ui/ux
  ![image](https://github.com/khushi767/weather_app/assets/99918465/69646190-31bc-4642-bc7d-efb3914a7b1d)
